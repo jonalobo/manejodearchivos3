@@ -1,0 +1,1 @@
+[{"title":"televisor","price":500,"thumbnail":"http://demo/tv","id":2},{"title":"cocina","price":1500,"thumbnail":"http://demo/cocina","id":3}]
